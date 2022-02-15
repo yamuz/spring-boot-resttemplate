@@ -1,4 +1,4 @@
-package com.burakkutbay.springbootresttemplateexample.pojo;
+package com.abdrayev.springbootresttemplateexample.pojo;
 
 import lombok.Data;
 

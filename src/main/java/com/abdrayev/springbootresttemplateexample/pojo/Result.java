@@ -1,8 +1,6 @@
-package com.burakkutbay.springbootresttemplateexample.pojo;
+package com.abdrayev.springbootresttemplateexample.pojo;
 
 import lombok.Data;
-
-import java.util.Date;
 
 @Data
 public class Result {

@@ -1,8 +1,7 @@
-package com.burakkutbay.springbootresttemplateexample.controller;
+package com.abdrayev.springbootresttemplateexample.controller;
 
-import com.burakkutbay.springbootresttemplateexample.pojo.Character;
-import com.burakkutbay.springbootresttemplateexample.service.ApiService;
-import com.burakkutbay.springbootresttemplateexample.service.ApiServiceImpl;
+import com.abdrayev.springbootresttemplateexample.pojo.Character;
+import com.abdrayev.springbootresttemplateexample.service.ApiService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

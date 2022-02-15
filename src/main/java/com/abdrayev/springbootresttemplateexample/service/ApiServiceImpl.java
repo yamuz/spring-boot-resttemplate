@@ -1,6 +1,6 @@
-package com.burakkutbay.springbootresttemplateexample.service;
+package com.abdrayev.springbootresttemplateexample.service;
 
-import com.burakkutbay.springbootresttemplateexample.pojo.Character;
+import com.abdrayev.springbootresttemplateexample.pojo.Character;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
